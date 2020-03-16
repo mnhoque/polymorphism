@@ -1,0 +1,7 @@
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\bin\Debug\Session105_Polymorphosm.exe.config
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\bin\Debug\Session105_Polymorphosm.exe
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\bin\Debug\Session105_Polymorphosm.pdb
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\obj\Debug\Session105_Polymorphosm.csprojAssemblyReference.cache
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\obj\Debug\Session105_Polymorphosm.csproj.CoreCompileInputs.cache
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\obj\Debug\Session105_Polymorphosm.exe
+C:\Users\nazmu\source\repos\Session105_Polymorphosm\Session105_Polymorphosm\obj\Debug\Session105_Polymorphosm.pdb
